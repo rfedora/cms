@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="65ccdc27-ce16-4811-9b20-535edb0ebb34" name="PHP4BeginnersCMS" url="http://localhost:8080/cms">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www\cms" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
